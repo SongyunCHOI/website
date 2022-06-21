@@ -1,3 +1,3 @@
-function sendit {
+function sendit () {
     alert('안녕!')
 }
